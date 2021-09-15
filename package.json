@@ -1,0 +1,28 @@
+{
+  "name": "mailserversmtp",
+  "version": "0.1.0",
+  "description": "",
+  "main": "smtpServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evgene30/mailServerSMTP.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evgene30/mailServerSMTP/issues"
+  },
+  "homepage": "https://github.com/evgene30/mailServerSMTP#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "needle": "^2.8.0"
+  },
+  "devDependencies": {
+    "nodemailer": "^6.6.3",
+    "tress": "^1.1.4"
+  }
+}
